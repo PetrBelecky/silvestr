@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    color: #eeeeee;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+body {
+    min-height: 98vh;
+    margin: 0;
+    background-image: url("cool-background-1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+main {
+    width: 60vw;
+    margin: 5% 20%; 
+    text-align: center;   
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+img {
+    padding: 40px;
+    width: 50%;
+    height: auto;
+}
+
+
